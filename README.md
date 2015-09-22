@@ -1,9 +1,9 @@
-# Robe-di-Julia
+# Roba-da-Julia
 Note di matematica (Ecuazione Diferenziali).
 
 Ciao guagliù
 
-ca' metterò alcune note sulle equazione diferenziali e' comme risolverle.
+Ca' metterò alcune note sulle equazione diferenziali e' comme risolverle.
 aspetto vi piaccia. Il linguaggio che uso è Julia. Potete cominciare subito con 
 chello, tutto ca dovete fare è andare su (http://juliabox.org), lì c'entrate con il vostro account di Google.
 
