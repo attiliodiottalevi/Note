@@ -253,4 +253,10 @@ remote: Counting objects: 9, done.
 remote: Compressing objects: 100% (5/5), done.                                                                                                                       
 remote: Total 9 (delta 5), reused 8 (delta 4), pack-reused 0                                                                                                         
 Unpacking objects: 100% (9/9), done.                                                                                                                                 
-From http://github.com/attiliodiottalevi/Robe-di-Julia                                                           
+From http://github.com/attiliodiottalevi/Robe-di-Julia
+
+
+Pagine per imparare di piu:
+https://www.atlassian.com/git/tutorials/
+                                                          
+http://pcottle.github.io/learnGitBranching/ 
