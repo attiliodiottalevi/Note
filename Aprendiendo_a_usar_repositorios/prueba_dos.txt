@@ -257,6 +257,6 @@ From http://github.com/attiliodiottalevi/Robe-di-Julia
 
 
 Pagine per imparare di piu:
-https://www.atlassian.com/git/tutorials/
+[link_uno](https://www.atlassian.com/git/tutorials)
                                                           
-http://pcottle.github.io/learnGitBranching/ 
+[link_due](http://pcottle.github.io/learnGitBranching) 
