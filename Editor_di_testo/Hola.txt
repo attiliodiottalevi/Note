@@ -1,3 +1,7 @@
 Archivo de prueba con 'vi'
 
-http://www.cs.rit.edu/~cslab/vi.html#A1.15
+https://www.freebsd.org/doc/it/books/unix-introduction/editors-vi-guide.html
+
+
+
+  
