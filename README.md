@@ -13,8 +13,7 @@ Buona programmazione.
 Se vi interesa sapere un po' cchiu su Julia guardate stu' [sito](http://julialang.org/learning)
 
 Alcuni canzoni mentre fate i vostri programmi: [Portishead](https://www.youtube.com/watch?v=C3LK5ELvZwI), oppure un po' di 
-[Marteria](https://www.youtube.com/watch?v=fkMg_X9lHMc), o forse pensate che la vostra religione è il 
-[hip-hop](http://vk.com/video-10568504_128657235)
+[Marteria](https://www.youtube.com/watch?v=fkMg_X9lHMc)...
 
 
 
